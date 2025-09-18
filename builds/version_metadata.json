@@ -1,33 +1,33 @@
 {
-  "version": "1.0.3+3",
-  "build_number": "3",
-  "version_name": "1.0.3",
-  "build_time": "20250918-113749",
-  "release_time": "2025-09-18T04:37:49Z",
-  "release_name": "AIBFarm App 1.0.3+3",
+  "version": "",
+  "build_number": "",
+  "version_name": "",
+  "build_time": "20250918-114353",
+  "release_time": "2025-09-18T04:43:52Z",
+  "release_name": "",
   "commit_sha": "unknown",
   "android": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3+3-20250918-113642.apk",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm--20250918-114346.apk",
     "file_size": 9,
     "file_name": "aibfarm-latest.apk",
-    "versioned_file_name": "aibfarm-1.0.3+3-20250918-113642.apk"
+    "versioned_file_name": "aibfarm--20250918-114346.apk"
   },
   "ios": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.ipa",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3+3-20250918-113642.ipa",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm--20250918-114346.ipa",
     "file_size": 9,
     "file_name": "aibfarm-latest.ipa",
-    "versioned_file_name": "aibfarm-1.0.3+3-20250918-113642.ipa"
+    "versioned_file_name": "aibfarm--20250918-114346.ipa"
   },
   "update_info": {
     "force_update": false,
     "min_supported_version": "1.0.0",
     "change_log": [
-      "版本 1.0.3+3 更新",
-      "构建时间: 2025-09-18T04:37:49Z",
+      "版本  更新",
+      "构建时间: 2025-09-18T04:43:52Z",
       "通过 sync_to_public.sh 自动生成"
     ]
   }

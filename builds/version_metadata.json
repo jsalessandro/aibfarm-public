@@ -9,26 +9,24 @@
   "android": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4-20250918-135919.apk",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.apk",
     "file_size": 9,
     "file_name": "aibfarm-latest.apk",
-    "versioned_file_name": "aibfarm-1.0.4-20250918-135919.apk"
+    "versioned_file_name": "aibfarm-1.0.4.apk"
   },
   "ios": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.ipa",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4-20250918-135919.ipa",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.ipa",
     "file_size": 9,
     "file_name": "aibfarm-latest.ipa",
-    "versioned_file_name": "aibfarm-1.0.4-20250918-135919.ipa"
+    "versioned_file_name": "aibfarm-1.0.4.ipa"
   },
   "update_info": {
     "force_update": false,
     "min_supported_version": "1.0.0",
     "change_log": [
-      "版本 1.0.4 更新",
-      "构建时间: 2025-09-18T06:59:22Z",
-      "通过 sync_to_public.sh 自动生成"
+      "版本 1.0.4 更新"
     ]
   }
 }

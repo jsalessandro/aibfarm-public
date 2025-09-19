@@ -13,13 +13,13 @@ AIBFarm是一个专业的量化交易平台，为用户提供智能化的交易�
 ### 📊 版本化下载
 
 **当前版本 v1.0.6**
-- **Android**: [下载 v1.0.6 apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6.apk)
-- **iOS**: [下载 v1.0.6 ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6.ipa)
+- **Android**: [下载 v1.0.6 apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6+6.apk)
+- **iOS**: [下载 v1.0.6 ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6+6.ipa)
 
 **历史版本**
-- **v1.0.5**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5.ipa)
-- **v1.0.4**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.ipa)
-- **v1.0.3**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3.ipa)
+- **v1.0.5**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5+5.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5+5.ipa)
+- **v1.0.4**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4+4.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4+5.ipa)
+- **v1.0.3**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3+3.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3+3.ipa)
 
 ## 📋 版本信息
 

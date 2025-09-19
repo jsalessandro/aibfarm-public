@@ -7,18 +7,19 @@ AIBFarm是一个专业的量化交易平台，为用户提供智能化的交易�
 ### 🔥 最新版本下载 (推荐)
 
 **📲 一键下载最新版**
-- **Android**: [点击下载 AIBFarm.apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk)
-- **iOS**: [点击下载 AIBFarm.ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.ipa)
+- **Android**: [点击下载 aibfarm-latest.apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk)
+- **iOS**: [点击下载 aibfarm-latest.ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.ipa)
 
 ### 📊 版本化下载
 
 **当前版本 v1.0.5**
-- **Android**: [下载 v1.0.5 APK](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.5/app-release.apk)
-- **iOS**: [下载 v1.0.5 IPA](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.5/AIBFarm.ipa)
+- **Android**: [下载 v1.0.6 apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6.apk)
+- **iOS**: [下载 v1.0.6 ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.6.ipa)
 
 **历史版本**
-- **v1.0.4**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.4/app-release.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.4/AIBFarm.ipa)
-- **v1.0.3**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.3/app-release.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/v1.0.3/AIBFarm.ipa)
+- **v1.0.5**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.5.ipa)
+- **v1.0.4**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.4.ipa)
+- **v1.0.3**: [Android](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3.apk) | [iOS](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.3.ipa)
 
 ## 📋 版本信息
 
@@ -78,6 +79,6 @@ AIBFarm是一个专业的量化交易平台，为用户提供智能化的交易�
 
 ---
 
-**© 2024 AIBFarm Team. All rights reserved.**
+**© 2025 AIBFarm Team. All rights reserved.**
 
 *最后更新: $(date '+%Y-%m-%d')*

@@ -1,18 +1,18 @@
 {
-  "version": "1.0.10+10",
-  "build_number": "10",
-  "version_name": "1.0.10",
-  "build_time": "20250922-170000",
-  "release_time": "22025-09-22T17:00:00Z",
-  "release_name": "AIBFarm App 1.0.10+10",
+  "version": "1.0.11+11",
+  "build_number": "11",
+  "version_name": "1.0.11",
+  "build_time": "20250923-170000",
+  "release_time": "22025-09-23T17:00:00Z",
+  "release_name": "AIBFarm App 1.0.11+11",
   "commit_sha": "unknown",
   "android": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.10+10.apk",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.11+11.apk",
     "file_size": 50086223,
     "file_name": "aibfarm-latest.apk",
-    "versioned_file_name": "aibfarm-1.0.10+10.apk"
+    "versioned_file_name": "aibfarm-1.0.11+11.apk"
   },
   "ios": {
     "available": true,
@@ -26,9 +26,9 @@
     "force_update": false,
     "min_supported_version": "1.0.0+1",
     "change_log": [
-       "修复版本检测逻辑问题",
+       "增加离线信箱模式",
+       "完善OTA更新体验",
        "添加构建号支持",
-       "优化OTA更新体验",
        "更新用户界面"
     ]
   }

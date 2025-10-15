@@ -1,18 +1,18 @@
 {
-  "version": "1.0.13+81",
-  "build_number": "81",
+  "version": "1.0.13+84",
+  "build_number": "84",
   "version_name": "1.0.13",
-  "build_time": "20251010-170000",
-  "release_time": "22025-10-10T17:00:00Z",
-  "release_name": "AIB农场 App 1.0.13+81",
+  "build_time": "20251015-170000",
+  "release_time": "22025-10-15T17:00:00Z",
+  "release_name": "AIB农场 App 1.0.13+84",
   "commit_sha": "unknown",
   "android": {
     "available": true,
     "download_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-latest.apk",
-    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.13+81.apk",
+    "versioned_url": "https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.13+84.apk",
     "file_size": 50086223,
     "file_name": "aibfarm-latest.apk",
-    "versioned_file_name": "aibfarm-1.0.13+81.apk"
+    "versioned_file_name": "aibfarm-1.0.13+84.apk"
   },
   "ios": {
     "available": true,
@@ -24,11 +24,9 @@
   },
   "update_info": {
     "force_update": false,
-    "min_supported_version": "1.0.13+81",
+    "min_supported_version": "1.0.13+84",
     "change_log": [
-       "登录界面UI换新美化",
-       "首页数据及时性，重连机制优化",
-       "优化通知中心消息推送和界面UI换新美化",
+       "优化通知中心消息推送",
        "修复部分已知问题",
        "优化用户体验"
     ]

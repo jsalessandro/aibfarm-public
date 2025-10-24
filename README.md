@@ -13,7 +13,7 @@ AIBFarm是一个专业的量化交易平台，为用户提供智能化的交易�
 ### 📊 版本化下载
 
 **当前版本 v1.0.13**
-- **Android**: [下载 v1.0.13 apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.13+86.apk)
+- **Android**: [下载 v1.0.13 apk](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.13+88.apk)
 - **iOS**: [下载 v1.0.8 ipa](https://github.com/jsalessandro/aibfarm-public/raw/main/builds/aibfarm-1.0.8+8.ipa)
 
 **尝鲜版 v1.0.13+87**
